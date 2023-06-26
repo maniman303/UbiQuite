@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UbiQuite": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Gry\\Assassin's Creed Valhalla\\ACValhalla.exe\""
+    }
+  }
+}
